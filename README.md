@@ -1,7 +1,7 @@
 # WatsonianAdventure
 Detecting Contradiction and Entailment in Multilingual Text using TPUs
 
-This is a project for the course SWE485: Selected Topics in Software Engineering, developed by Arwa, Reef, and Sadeem.
+This is a project for the course SWE485: Selected Topics in Software Engineering, developed by Arwa Alabdulkarim 441201304, Reef Althunyan 4412013090, and Sadeem Almujil 442202286.
 
 ### Project Motivation
 In this project, we aim to develop a machine learning model that can detect contradiction and entailment in multilingual text. This is an important problem in natural language processing that has applications in areas such as information retrieval, question answering, and text summarization.
